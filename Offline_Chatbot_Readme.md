@@ -135,4 +135,3 @@ Once you've followed all setup steps, you can run the chatbot **offline** (as lo
 This offline chatbot, powered by the **Mistral model** through **Ollama**'s API, demonstrates how to build a simple interactive chat application using **Python** and **Tkinter**. While it doesn't provide up-to-the-minute information like current affairs, it offers helpful responses based on the knowledge embedded in the Mistral model, making it a great tool for various offline applications.
 
 ---
-
