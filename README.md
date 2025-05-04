@@ -45,9 +45,9 @@ Ensure that **Ollama** is installed and you have the **Mistral model** downloade
    ollama models list
    ```
 4. If not run the server of the model using:
-```bash
-ollama serve mistral
-```
+   ```bash
+   ollama serve mistral
+   ```
 
 ### 3. Run the chatbot
 
